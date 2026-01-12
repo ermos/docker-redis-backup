@@ -1,0 +1,20 @@
+# Binaries
+redis-backup
+*.exe
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment files
+.env
+
+# Backup files
+backups/
+*.rdb
+
+# OS files
+.DS_Store
+Thumbs.db
