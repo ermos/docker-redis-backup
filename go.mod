@@ -2,6 +2,8 @@ module github.com/ermos/docker-redis-backup
 
 go 1.23
 
+toolchain go1.26.11
+
 require (
 	cloud.google.com/go/storage v1.43.0
 	github.com/aws/aws-sdk-go v1.55.5
